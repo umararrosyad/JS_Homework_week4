@@ -28,9 +28,6 @@ console.log("nilai total "+ pebanding(getTotal(ganjil),getTotal(genap)))
 console.log("nilai rata rata "+ pebanding(getAverage(ganjil),getAverage(genap)))
 
 
-
-
-
 function angka_random(){
     let random = []
     for (x=0; x<100 ; x++){
