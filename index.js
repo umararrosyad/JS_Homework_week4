@@ -12,10 +12,13 @@ console.log(genap)
 
 console.log("minimal ganjil = "+getMin(ganjil))
 console.log("minimal genap = "+getMin(genap)+ "\n")
+
 console.log("maksimal ganjil = "+getMax(ganjil))
 console.log("maksimal genap = "+getMax(genap)+ "\n")
+
 console.log("Total ganjil = "+getTotal(ganjil))
 console.log("Total genap = "+getTotal(genap)+ "\n")
+
 console.log("rata rata genap = "+getAverage(genap))
 console.log("rata rata ganjil = "+getAverage(ganjil)+ "\n")
 
